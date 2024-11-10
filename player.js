@@ -25,7 +25,7 @@ const { queueNames } = require("./commands/play");
 function initializePlayer(client) {
     const nodes = [
          {
-    host: "lavalinkv3-id.serenetia.com",
+    host: "lavalinkv4-id.serenetia.com",
     port: 443, 
     password: "BatuManaBisa", 
      secure: true
