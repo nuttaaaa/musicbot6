@@ -25,9 +25,9 @@ const { queueNames } = require("./commands/play");
 function initializePlayer(client) {
     const nodes = [
          {
-    host: "lavalink-v4.huntools-bot.xyz",
+    host: "lava-v3.ajieblogs.eu.org",
     port: 443, 
-    password: "youshallnotpass", 
+    password: "https://dsc.gg/ajidevserver", 
      secure: true
   },
     ];
